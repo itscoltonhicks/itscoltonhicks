@@ -9,6 +9,14 @@
 
 - [How I Passed the CompTIA Security+ Exam in Less Than 3 Months with No Prior Experience](https://medium.com/@coltonhicks/how-i-passed-the-comptia-security-exam-in-less-than-3-months-with-no-prior-experience-39223ab5c9f3)
 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="ColtonHicks | Twitter/X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter/X]
+[<img align="left" alt="ColtonHicks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter/X]: https://x.com/ColtonTHicks
+[linkedin]: https://linkedin.com/in/itscoltonhicks
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
