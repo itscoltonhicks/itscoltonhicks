@@ -1,4 +1,4 @@
-<h1>Hi, I'm Colton! Passionate Cybersecurity Professional</h1>
+<h1>Hi, I'm Colton! Cybersecurity Professional & Blue Team SOC Analyst</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -11,8 +11,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter/X]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ColtonHicks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter/X]
+[<img align="left" alt="ColtonHicks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter/X]: https://x.com/ColtonTHicks
 [linkedin]: https://linkedin.com/in/itscoltonhicks
