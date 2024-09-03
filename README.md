@@ -4,10 +4,6 @@
 
 - <b>Azure Cloud Projects</b>
   - [Live Honeynet/SOC](https://github.com/itscoltonhicks/Cloud-SOC/blob/main/README.md)
-- <b>Active Directory</b>
-- <b>Private Link to Lockdown Cloud Resources</b>
-- <b>Security Hardening</b>
-- <b>KQL</b>
 
 <h2>✍ In-Depth Article Breakdowns</h2>
 
