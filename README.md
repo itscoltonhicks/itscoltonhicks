@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Cloud Projects</b>
-  - [Live Honeynet/SOC](https://github.com/itscoltonhicks/Cloud-SOC/blob/main/README.md)
+  - [Building a Honeynet + SOC in Azure (Live Traffic)](https://github.com/itscoltonhicks/Cloud-SOC/blob/main/README.md)
 
 <h2>✍ In-Depth Article Breakdowns</h2>
 
