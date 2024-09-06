@@ -7,7 +7,7 @@
 
 <h2>✍ In-Depth Article Breakdowns</h2>
 
-- [Here’s How I Used Azure Cloud to Build a Honeynet, Detect Live Threats, and Respond to SOC Incidents](https://coltonhicks.medium.com/heres-how-i-used-azure-cloud-to-build-a-honeynet-detect-live-threats-and-respond-to-soc-9c4eec7c05d5)
+- [How I Used Azure Cloud to Build a Honeynet, Detect Live Threats, and Respond to SOC Incidents](https://coltonhicks.medium.com/heres-how-i-used-azure-cloud-to-build-a-honeynet-detect-live-threats-and-respond-to-soc-9c4eec7c05d5)
 - [How I Passed the CompTIA Security+ Exam in Less Than 3 Months with No Prior Experience](https://medium.com/@coltonhicks/how-i-passed-the-comptia-security-exam-in-less-than-3-months-with-no-prior-experience-39223ab5c9f3)
 
 <h2> 🤳 Connect with me:</h2>
