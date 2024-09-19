@@ -2,11 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure Cloud Projects</b>
+- <b>Defensive Security Projects</b>
   - [Building a Honeynet + SOC in Azure (Live Traffic)](https://github.com/itscoltonhicks/Cloud-SOC/blob/main/README.md)
+  - [Vulnerability Management with Nessus](https://github.com/itscoltonhicks/Vulnerability-Management-Nessus/blob/main/README.md)
 
 <h2>✍ In-Depth Article Breakdowns</h2>
 
+- [Vulnerability Management with Nessus: Discover and Remediate System Weaknesses Before They’re Exploited](https://medium.com/@coltonhicks/vulnerability-management-with-nessus-discover-and-remediate-system-weaknesses-before-theyre-9f45ea161017)
 - [How I Used Azure Cloud to Build a Honeynet, Detect Live Threats, and Respond to SOC Incidents](https://coltonhicks.medium.com/heres-how-i-used-azure-cloud-to-build-a-honeynet-detect-live-threats-and-respond-to-soc-9c4eec7c05d5)
 - [How I Passed the CompTIA Security+ Exam in Less Than 3 Months with No Prior Experience](https://medium.com/@coltonhicks/how-i-passed-the-comptia-security-exam-in-less-than-3-months-with-no-prior-experience-39223ab5c9f3)
 
