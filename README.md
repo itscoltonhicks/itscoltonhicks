@@ -1,4 +1,4 @@
-<h1>Hi, I'm Colton! IT Security Professional & SOC Analyst</h1>
+<h1>Hi, I'm Colton! Cybersecurity Professional & SOC Analyst</h1>
 
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
