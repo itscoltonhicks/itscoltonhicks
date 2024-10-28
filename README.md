@@ -1,6 +1,6 @@
 <h1>Hi, I'm Colton! Cybersecurity Professional & SOC Analyst</h1>
 
-<h2>👨‍💻 IT and Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - <b>Defensive Cybersecurity Projects</b>
   - [Building a Honeynet + SOC in Azure (Live Traffic)](https://github.com/itscoltonhicks/Cloud-SOC/blob/main/README.md)
