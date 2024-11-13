@@ -6,7 +6,7 @@
   - [Building a Honeynet + SOC in Azure (Live Traffic)](https://github.com/itscoltonhicks/Cloud-SOC/blob/main/README.md)
   - [Vulnerability Management with Nessus](https://github.com/itscoltonhicks/Vulnerability-Management-Nessus/blob/main/README.md)
  
-- <b>IT Helpdesk Projects</b>
+- <b>Microsoft Cloud & Window Administration Projects</b>
   - [Active Directory and Microsoft Entra ID: Authentication, Authorization, and Group Policies](https://github.com/itscoltonhicks/Active-Directory-and-Microsoft-Entra-ID/blob/main/README.md)
 
 <h2>✍ In-Depth Project Breakdowns & Articles</h2>
